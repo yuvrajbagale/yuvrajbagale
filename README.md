@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **HTML5, CSS4,Bootstraps, Tailwind Css, Javascript,Django**
+- 💬 Ask me about **HTML5, CSS4,Bootstraps, Tailwind CSS, Javascript, Python, Django**
 
 - 📫 How to reach me **yuvrajbagale123@gmail.com**
 
