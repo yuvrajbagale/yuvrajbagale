@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yuvraj bagale" target="blank"><img src="https://img.shields.io/twitter/follow/yuvraj bagale?logo=twitter&style=for-the-badge" alt="yuvraj bagale" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **HTML5, CSS4,Bootstraps, Tailwind Css, Javascript,Django**
 
 - 📫 How to reach me **yuvrajbagale123@gmail.com**
 
